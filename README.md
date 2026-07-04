@@ -2,7 +2,9 @@
 # Warning
 I am not responsible in any way for how you use this tool.
 All rights to this program are reserved, and owned by Stas'M Corp.
+
 Copyright © Stas'M Corp. 2023
+
 This is a mirror of https://web.archive.org/web/20230701114006/http://msk1.stascorp.com/routerscan/prerelease.7z
 
 # Description
