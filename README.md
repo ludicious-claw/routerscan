@@ -1,5 +1,5 @@
 # routerscan
-# Warning
+# Quick Warning
 I am not responsible in any way for how you use this tool.
 All rights to this program are reserved, and owned by Stas'M Corp.
 
